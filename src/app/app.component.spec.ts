@@ -29,3 +29,5 @@ describe('AppComponent', () => {
     expect(compiled.querySelector('.content span').textContent).toContain('tutoNoob app is running!');
   });
 });
+
+// fichier qui permet de faire des tests sur l'application 

@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'tutoNoob';
 }
+
+// fichier typescript où se trouvent tous nos fichiers TS
